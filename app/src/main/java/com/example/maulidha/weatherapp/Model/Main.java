@@ -18,7 +18,6 @@ public class Main {
         this.temp_min = temp_min;
         this.temp_max = temp_max;
     }
-
     public double getTemp() {
         return temp;
     }
